@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main(){
+
 void MCDyMCM(int a, int b, int *mcd, int *mcm);
 int main() {
     int x=18, y=24;
